@@ -1,0 +1,70 @@
+h1{
+    color:rgb(8, 116, 80);
+}
+
+h2{
+    color:blue;
+}
+
+span{
+    color:red;
+}
+
+span.esp1{
+    color:yellow;
+}
+
+span.esp2{
+    color:blue;
+}
+
+span.esp3{
+    color:blueviolet;
+}
+
+span.esp4{
+    color:rgb(197, 49, 118);
+}
+span.esp5{
+    color:rgb(211, 136, 38);
+}
+
+u{
+    color:brown;
+}
+
+h4{
+    text-align: center;
+    color:blue;
+}
+
+table {
+    border-collapse: collapse; /* Para que los bordes colapsen y se vean como líneas continuas */
+    width: 100%; /* Ancho de la tabla */
+    color:rgb(8, 116, 80)
+}
+
+th, td {
+    border: 1px solid black; /* Agrega un borde de 1px sólido negro a cada celda */
+    padding: 8px; /* Espaciado interno para mejorar la apariencia */
+}
+
+p#color{
+    color: rgb(15, 124, 60); 
+}
+
+td.tab1{
+    color:red;
+}
+
+td.tab2{
+    color: rgb(161, 123, 16);
+}
+
+span.tab3{
+    color: rgb(161, 123, 16);
+}
+
+th.tab1{
+    color: rgb(161, 123, 16);
+}
